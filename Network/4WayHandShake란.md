@@ -23,4 +23,4 @@
     TIME WAIT상태가 종료(세션 완료 + 연결 종료)되면 클라이언트는 CLOSE WAIT 상태가 된다.
     
 # Additional...
-// 이와 함께 언급되는 개념으론 TCP연결 초기화에 사용되는 3 Way Handshake가 있다.
+// 이와 함께 언급되는 개념으론 TCP연결 초기화를 통해 양쪽 모두 데이터 송수신이 가능한지를 확인하는데 사용되는 3 Way Handshake가 있다.
