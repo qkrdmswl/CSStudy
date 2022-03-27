@@ -1,5 +1,8 @@
 ## ❗개요❗
-- CS 공부 및 면접 준비를 하기 위해 모인 스터디 
+  ### 다음 목적을 달성하고자 만들어진 스터디
+    - CS(Computer Science)를 주기적으로 공부
+    - 관련 분야의 트렌드 및 지식을 공유
+    - 취업 시 면접의 방식대로 진행함으로써 면접 대비
 <br>
 
 ## ⏰ 스터디 기간 ⏰
@@ -44,4 +47,10 @@
   - 2주차 : Programming Language 🐯🐣🐰
     - [interface와 Abstract의 설명과 비교](https://github.com/Kimsj912/CSStudy/blob/main/Programming_Language/Interface%EC%99%80%20Abstract%EC%9D%98%20%EC%84%A4%EB%AA%85%EA%B3%BC%20%EB%B9%84%EA%B5%90)    
     - [npm과 yarn](https://github.com/Kimsj912/CSStudy/blob/main/Programming_Language/Npm%EA%B3%BC%20yarn)
-    - [Thread Safe란?](https://github.com/Kimsj912/CSStudy/blob/main/Network/4WayHandShake%EB%9E%80.md)
+    - [Thread Safe란?](https://github.com/Kimsj912/CSStudy/blob/main/Programming_Language/Thread%20Safe%EB%9E%80%3F)
+
+
+  - 3주차 : Algorithm 🐯🐣🐰
+    - [DFS와 BFS](https://github.com/Kimsj912/CSStudy/tree/main/Algorithm/DFS%EC%99%80%20BFS)    
+    - [이진 탐색(Binary Search Tree)](https://github.com/Kimsj912/CSStudy/tree/main/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+    - [비트마스킹(Bitmasking)](https://github.com/Kimsj912/CSStudy/tree/main/Algorithm/Bitmasking)
